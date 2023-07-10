@@ -2,4 +2,4 @@
 
 Convert HEIC/HEIF image files to JPEG
 
-### https://corasan.github.io/heic-converter/
+### https://alexifcu.github.io/heic-converter/
